@@ -37,7 +37,7 @@ def give_joke():
     parent = requests.get(base_url).json()
     joke = parent["joke"]
     return joke
-print(give_joke())
+#print(give_joke())
 
 
 # search (query)

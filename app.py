@@ -3,46 +3,12 @@ from flask import request
 import json
 from twilio import twiml
 from twilio.twiml.messaging_response import Body, Message, MessagingResponse
-import requests
-#system libraries
-import os
-import asyncio
-import random
-from random import choice
-from random import randrange
 import time
 from types import CoroutineType
-import pylint_ignore
-import pause, datetime
-import pause
 from time import sleep
 import threading
 import signal
-import sys
-from sys import exit
-
-
-
-
-
-# Playwright Imports 
-from playwright.sync_api import sync_playwright
-
-#recaptcha libraries
 import requests
-
-
-# Early link gen Libraries
-import requests
-import numpy
-import json
-
-# License libraries
-
-
-# Discord Libraries
-from pypresence import Presence
-import json
 
 ##############################
 
