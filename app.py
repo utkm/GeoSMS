@@ -47,6 +47,9 @@ def sms():
     elif key_command == "directions":
         resp.message(directions(user_parameter, message_body[2]))
         return str(resp)
+    elif key_command == "transit":
+        resp.message(transit(user_parameter, message_body[2]))
+        return str(resp)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=80, debug=True)
