@@ -63,3 +63,22 @@ header .menu h1 {
     -webkit-backdrop-filter: blur( 4px );
     border-radius: 10px;
 }
+
+.info-wrapper {
+    background: #001220;
+}
+
+.info-column {
+    display: inline-block;
+    margin: 15px;
+    color: white;
+    text-align: center;
+}
+
+.commands {
+    padding: 10px;
+}
+
+.commands {
+
+}
