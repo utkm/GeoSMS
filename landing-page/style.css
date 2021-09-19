@@ -1,10 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Monserrat", sans-serif;
+    font-family: "DM Sans", sans-serif;
 }
 
 header {
@@ -23,8 +21,9 @@ header .menu {
     text-align: center;
 }
  
-header .menu h1 {
-    color:white;
+
+header .menu h2 {
+    color: black;
     font-size:5vw;
     text-transform: uppercase;
 
@@ -38,7 +37,7 @@ header .menu h1 {
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background: url(/assets/bus.jpg) no-repeat;
+    background: url(./assets/bus.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -48,6 +47,7 @@ header .menu h1 {
 }
 
 .slogan-wrapper h1 {
+    font-family: "Poppins", sans-serif;
     color:white;
     font-size:5vw;
     text-transform: uppercase;
