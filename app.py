@@ -27,7 +27,8 @@ def sms():
     message_body = message_body.split(',')
     resp = MessagingResponse()
     key_command = message_body[0]
-    user_parameter = message_body[1]
+    if len(message_body) > 1:
+        user_parameter = message_body[1]
 
     if key_command == "define":
         resp.message(get_definition(user_parameter))
