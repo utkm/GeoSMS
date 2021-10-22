@@ -1,11 +1,11 @@
-<h1>GeoSMS</h1>
+<h1 align="center">GeoSMS</h1>
 
 ## What is GeosMS?
 
 ### Inspiration
 Have you ever been stuck in some sort of an emergency situation like being lost when you have no Wi-Fi and no data. Actually, I have been, and trust me. It’s not fun. To solve this, we created GeoSMS, an SMS service that allows you to perform various emergency searches such as finding the directions to an address, which supports directions via transit data, and then we also added some mini-games to lighten up your mood while you wait.
 
-## How it works? 🤔
+### How it works? 🤔
 First, send an SMS to the Twilio number (currently your number has to be authorized to be able to do this) which should include a command term. Then, you will receive a reply for your request. This can be really helpful if you need directions to a certain address but don't have Wi-fi, or if you would like to take the bus but don't know which one to take. Other than those fundamental features, there are mini-games (like defining a word, being told a joke, generating a random piece of advice, searching google while being offline, and checking a cryptocurrency) you can play while you wait.<br />
 
 ### Quick start 🚀
