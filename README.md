@@ -9,7 +9,7 @@
 </p>
 
 <p align"center">
-  <img alt="GeoSMS-logo" src="https://user-images.githubusercontent.com/46727048/138491522-f7afea69-3034-4b7d-8182-5bf4e2049ccc.jpeg" />
+  <img alt="GeoSMS-logo" src="https://user-images.githubusercontent.com/46727048/138494065-30dc6a72-b86d-46ac-8803-d0fecc0f0048.png" />
 </p>
 
 ## What is GeoSMS?
