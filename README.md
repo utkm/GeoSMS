@@ -1,5 +1,7 @@
 <h1 align="center">GeoSMS</h1>
 
+![GeoSMS](https://user-images.githubusercontent.com/46727048/138491404-24a41530-d39b-4f90-ba40-a2b7ada81134.png)
+
 ## What is GeoSMS?
 
 ### Inspiration
