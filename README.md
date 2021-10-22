@@ -1,6 +1,16 @@
 <h1 align="center">GeoSMS</h1>
 
-![GeoSMS](https://user-images.githubusercontent.com/46727048/138491404-24a41530-d39b-4f90-ba40-a2b7ada81134.png)
+<p align="center">
+  <img alt="badge-lastcommit" src="https://img.shields.io/github/last-commit/utkm/GeoSMS?style=for-the-badge">
+  <img alt="badge-openissues" src="https://img.shields.io/github/issues-raw/utkm/GeoSMS?style=for-the-badge">
+  <img alt="badge-license" src="https://img.shields.io/github/license/utkm/GeoSMS?style=for-the-badge">
+  <img alt="badge-contributors" src="https://img.shields.io/github/contributors/utkm/GeoSMS?style=for-the-badge">
+  <img alt="badge-codesize" src="https://img.shields.io/github/languages/code-size/utkm/GeoSMS?style=for-the-badge">
+</p>
+
+<p align"center">
+  <img alt="GeoSMS-logo" src="https://user-images.githubusercontent.com/46727048/138491522-f7afea69-3034-4b7d-8182-5bf4e2049ccc.jpeg" />
+</p>
 
 ## What is GeoSMS?
 
