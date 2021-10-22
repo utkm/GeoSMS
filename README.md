@@ -23,3 +23,8 @@ https://user-images.githubusercontent.com/45953426/138011988-47ea907d-def0-4344-
 
 ## License
 All the code owned in this repository is under the [MIT license](https://github.com/utkm/GeoSMS/blob/main/LICENSE).
+
+## Contributors
+Thanks to these wonderful people for making GeoSMS possible!
+
+<p align="center"><a href="https://github.com/utkm/GeoSMS/graphs/contributors"><img src="https://contrib.rocks/image?repo=utkm/GeoSMS" /></a></p>
