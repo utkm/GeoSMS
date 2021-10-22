@@ -1,6 +1,6 @@
 <h1 align="center">GeoSMS</h1>
 
-## What is GeosMS?
+## What is GeoSMS?
 
 ### Inspiration
 Have you ever been stuck in some sort of an emergency situation like being lost when you have no Wi-Fi and no data? Actually, I have been, and trust me. It’s not fun. To solve this, we created GeoSMS, an SMS service that allows you to perform various emergency searches such as finding the directions to an address, which supports directions via transit data, and then we also added some mini-games to lighten up your mood while you wait.
