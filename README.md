@@ -18,7 +18,9 @@
 Have you ever been stuck in some sort of an emergency situation like being lost when you have no Wi-Fi and no data? Actually, I have been, and trust me. It’s not fun. To solve this, we created GeoSMS, an SMS service that allows you to perform various emergency searches such as finding the directions to an address, which supports directions via transit data, and then we also added some mini-games to lighten up your mood while you wait.
 
 ### How it works? 🤔
-First, send an SMS to the Twilio number (currently your number has to be authorized to be able to do this) which should include a command term. Then, you will receive a reply for your request. This can be really helpful if you need directions to a certain address but don't have Wi-fi, or if you would like to take the bus but don't know which one to take. Other than those fundamental features, there are mini-games (like defining a word, being told a joke, generating a random piece of advice, searching google while being offline, and checking a cryptocurrency) you can play while you wait.<br />
+First, the user sends an SMS text message to the Twilio number (currently, the number has to be authorized to be able to do this). Then, the backend arrives to the server which processes your request. Once processed, the backend will send a reply through another SMS text message with the corresponding reply for your request. Finally, the user receives the SMS text message with his message.
+
+This can be really helpful if you need directions to a certain address but don't have Wi-fi, or if you would like to take the bus but don't know which one to take. Other than those fundamental features, there are mini-games (like defining a word, being told a joke, generating a random piece of advice, searching Google while being offline, and checking a cryptocurrency) you can play while you wait.
 
 ### Quick start 🚀
 1. Connect the flask server-side from your localhost to "ngrok" (do not change port number). You can find info about "ngrok" [here](https://ngrok.com/).
