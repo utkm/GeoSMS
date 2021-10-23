@@ -13,8 +13,8 @@
 </p>
 
 ## Translations
-- [English](https://github.com/utkm/GeoSMS/blob/main/docs/README.md).
-- [Spanish](https://github.com/utkm/GeoSMS/blob/main/docs/README_es.md).
+- [English](https://github.com/utkm/GeoSMS/blob/main/docs/README.md) (Currently reading this one).
+- [Español](https://github.com/utkm/GeoSMS/blob/main/docs/README_es.md).
 
 ## What is GeoSMS?
 ### Inspiration
