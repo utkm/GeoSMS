@@ -12,6 +12,10 @@
   <img alt="GeoSMS-logo" src="https://user-images.githubusercontent.com/46727048/138494065-30dc6a72-b86d-46ac-8803-d0fecc0f0048.png" />
 </p>
 
+# Traducciones
+- [English](https://github.com/utkm/GeoSMS/blob/main/docs/README.md).
+- [Español](https://github.com/utkm/GeoSMS/blob/main/docs/README_es.md) (Leyendo esta ahora).
+
 ## ¿Qué es GeoSMS?
 
 ### Inspiración
