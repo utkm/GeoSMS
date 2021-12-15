@@ -12,8 +12,11 @@
   <img alt="GeoSMS-logo" src="https://user-images.githubusercontent.com/46727048/138494065-30dc6a72-b86d-46ac-8803-d0fecc0f0048.png" />
 </p>
 
-## What is GeoSMS?
+## Translations
+- [English](https://github.com/utkm/GeoSMS/blob/main/docs/README.md) (Currently reading this one).
+- [Español](https://github.com/utkm/GeoSMS/blob/main/docs/README_es.md).
 
+## What is GeoSMS?
 ### Inspiration
 In lots of places in the world, the Internet does not arrive due to the lack of infrastructure, leaving people in these areas disconnected. This is a big problem because it disallows them to access many important facilities in our present world. Still, the coverage area of SMS tends to be larger than the area of Internet coverage. That's why we came with the idea of GeoSMS. GeoSMS allows these people to perform some operations that they wouldn't be able to perform otherwise.
 
