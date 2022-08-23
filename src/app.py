@@ -36,18 +36,14 @@ lang = lang_en
 
 app = Flask(__name__) 
 
-@app.route('/')
-def home():
-    return "Hello"
 
-
-@app.route('/sms', methods=['POST'])
+@app.route('/', methods=['POST'])
 def sms():
     number = request.form['From']
     message_body = request.form['Body']
     message_body = message_body.split(',')
     resp = MessagingResponse()
-    key_command = message_body[0]
+    key_command = message_body[0].lower()
     if len(message_body) > 1:
         user_parameter = message_body[1]
 
